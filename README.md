@@ -11,9 +11,9 @@ understanding the PMs perspective.
 
 ## Why? 
 
-* As a PM I want to want to express what I expect through a reproducible 
+* > As a PM I want to want to express what I expect through a reproducible 
 examlpe so that developers can turn it into a test and implement my idea.
-* As a PM I want to understand tests and to be able to run them so I can see
+* > As a PM I want to understand tests and to be able to run them so I can see
 if the code is actually doing what I expect.
 
 ## Objectives
