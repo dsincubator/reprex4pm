@@ -6,13 +6,13 @@
 
 Example:
   
-Install pak, reprex, datapasta, and 2DegreesInvesting/tiltPlot@reprex-demo
+Install pak, reprex, datapasta, and 2DegreesInvesting/tiltIndicator@reprex-demo
 
 ```r
 install.packages("pak")
 pak::pak("reprex")
 pak::pak("datapasta")
-pak::pak("2DegreesInvesting/tiltPlot@reprex-demo")
+pak::pak("2DegreesInvesting/tiltIndicator@reprex-demo")
 ```
 
 ### Private
