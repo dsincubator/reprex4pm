@@ -1,3 +1,7 @@
+# Setup
+
+This is for admins -- likley the person leading the workshop.
+
 ### Public
 
 * https://posit.cloud/ > New Project > New RStudio Project.
