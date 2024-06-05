@@ -1,7 +1,6 @@
 # reprex in practice
 
-The goal is create reproducible examples from real code in the wild.
-
+The goal is to create reproducible examples using tilt data and code.
 
 Objectives:
 
