@@ -1,4 +1,4 @@
-# reprex in practice
+# reprex workshop
 
 The goal is to create reproducible examples using tilt data and code.
 
