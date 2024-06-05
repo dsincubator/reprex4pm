@@ -1,4 +1,4 @@
-# reprex workshop
+# reprex for project managers
 
 ## Goal
 
