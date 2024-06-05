@@ -1,11 +1,18 @@
 Challenge: Create a reprex from a test
 
-<https://2degreesinvesting.github.io/tiltIndicator/>
-
 Objectives:
 
-* Find tests for a given function
-* Understand the structure of a test
-* Use of tiltToyData
-* Understand test-data constructors
+* Find the tests of a function.
+* Understand the structure of a test.    
+```r
+reprex(..., {
+  code
+})
+
+# similar
+test_that(..., {
+  code
+})
+```
+* Turn a test into a reprex. 
 
