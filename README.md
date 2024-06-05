@@ -2,7 +2,7 @@
 
 ## Goal
 
-Create reproducible examples using tilt data and code.
+Create reproducible examples using you own data and code.
 
 ## Audience
 
@@ -26,7 +26,7 @@ if the code is actually doing what I expect.
 
 ## Setup
 
-- Go to https://posit.cloud/ > Spaces > Mauro Lepore > reprex-in-practice
+- Go to https://posit.cloud/ > Spaces > {Managed space} > {Assignment}
 
 ## Resources
 
