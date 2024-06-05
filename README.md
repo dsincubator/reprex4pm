@@ -18,6 +18,7 @@ if the code is actually doing what I expect.
 
 ## Objectives
 
+* Access a reproducible computing environment that is private, shared, and managed.
 * Overview the most useful features of [reprex](https://reprex.tidyverse.org/).
 * Find help files and tests in an R package.
 * Create reprex-es from examples.
