@@ -4,7 +4,9 @@
 
 Create reproducible examples using tilt data and code.
 
-Audience: Project managers (PMs). Developers should also benefit from better
+## Audience
+
+Project managers (PMs). Developers should also benefit from better
 understanding the PMs perspective.
 
 ## Why? 
