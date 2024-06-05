@@ -2,7 +2,6 @@
 
 The goal is create reproducible examples from real code in the wild.
 
-
 Objectives:
 
 * Overview the most useful features of [reprex](https://reprex.tidyverse.org/).
